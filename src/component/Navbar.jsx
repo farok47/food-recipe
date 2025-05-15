@@ -11,7 +11,7 @@ function Navbar() {
       <form onSubmit={handlesubmit}>
         <input
           type="text"
-          placeholder="enter your name"
+          placeholder="enter a name :(tomato)"
           value={search}
           onChange={e=>setsearch(e.target.value)}
 
